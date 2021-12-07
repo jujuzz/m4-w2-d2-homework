@@ -1,0 +1,28 @@
+{
+    "name": "m4-w2-d2-homework",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/jujuzz/m4-w2-d2-homework"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/jujuzz/m4-w2-d2-homework/issues"
+    },
+    "homepage": "https://github.com/jujuzz/m4-w2-d2-homework",
+    "dependencies": {
+      "body-parser": "^1.19.0",
+      "connect-ensure-login": "^0.1.1",
+      "express": "^4.17.1",
+      "express-session": "^1.17.2",
+      "mongoose": "^6.0.9",
+      "passport": "^0.5.0",
+      "passport-local-mongoose": "^6.1.0"
+    }
+  }
